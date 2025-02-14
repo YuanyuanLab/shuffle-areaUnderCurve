@@ -43,5 +43,4 @@ Outputs:
 
 Correlation coefficients and statistical results will be displayed in MATLAB.
 Figures comparing real and shuffled data will be saved in the specified output directory.
-Contact
-For any questions or modifications, please contact James Wang or refer to Dr. Liu
+
