@@ -28,14 +28,7 @@ Segments fluorescence responses based on temperature bins (T=25°C, 25°C < T < 
 Computes AUC using trapezoidal integration.
 Performs Wilcoxon rank-sum tests to compare different temperature conditions.
 Generates boxplots comparing AUC values across different temperature bins.
-4. otherStimulation_AreaUnderCurve.m
-Purpose: Calculates and compares the AUC of fluorescence signals between CRH and WT mice under different stimulation conditions.
-Main Features:
-Loads fluorescence and stimulation data for CRH and WT mice.
-Extracts time windows of interest based on stimulation onset.
-Computes AUC using trapezoidal integration.
-Uses Wilcoxon rank-sum tests to compare CRH vs. WT responses.
-Generates boxplots displaying the differences between conditions.
+
 Dependencies
 MATLAB with basic statistics and plotting functions.
 .mat files containing fluorescence and label data.
