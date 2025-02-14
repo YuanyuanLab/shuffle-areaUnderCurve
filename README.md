@@ -1,6 +1,6 @@
 README
 
-Overview
+
 This repository contains MATLAB scripts used for analyzing fluorescence dynamics and their response to different stimulation conditions. The scripts primarily focus on calculating correlations, shuffling analyses, and computing the area under the curve (AUC) for different datasets.
 
 Files Description
